@@ -1,1 +1,1 @@
-# performanceAnalysis: A framework for analysis of investment performance of CTA portfolio.
+# performanceAnalysis: A matlab tool for analysis of investment performance of CTA portfolio.
